@@ -1,3 +1,6 @@
+#### you want ""OUTPUT"" then go ""DOWN"" side ###
+
+
 Library Management System (Java + MySQL)
 
 A complete Library Management System built using Java (Swing UI) and MySQL for backend database. This system supports Admin and User roles and provides functionalities like managing books, students, staff, issue/return operations, and more.
@@ -146,4 +149,26 @@ GitHub: kumarmaruthi
 📝 License
 
 This project is open-source and free to use for learning and educational purposes.
+
+### OUTPUT
+
+<img width="1366" height="624" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/8da7460c-b853-4f7b-bd14-a31f625e8ed2" />
+<img width="1366" height="616" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/2f31ad22-2bdc-45c7-a1ce-b065202d6ae0" />
+
+<img width="1366" height="623" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/be8dc72a-4364-4987-bc44-952fa6b9e929" />
+<img width="1366" height="649" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/787c7a72-6f54-4996-b1ad-a2a3d14f6a2e" />
+<img width="1366" height="624" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/dd6976a3-548e-4362-b25f-bb3388330224" />
+<img width="1366" height="638" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/47543621-d201-424e-8865-0ba8e8c2f8d1" />
+<img width="1366" height="639" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/77c3eea0-b0de-43c0-9e65-fca2eba424bc" />
+
+
+
+
+
+
+
+
+
+
+
 
