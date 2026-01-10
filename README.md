@@ -3,7 +3,7 @@ went some more information then contect contains "9740227692" AND "kumarmaruthi.
 
 
 Library Management System (Java + MySQL)
-
+ 
 A complete Library Management System built using Java (Swing UI) and MySQL for backend database. This system supports Admin and User roles and provides functionalities like managing books, students, staff, issue/return operations, and more.
 
 🚀 Features
